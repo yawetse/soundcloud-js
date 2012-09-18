@@ -1,7 +1,7 @@
 {
   "name": "soundcloud-js-auth",
   "description": "Simple SoundCloud API client with OAuth2 token",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Yaw Joseph Etse",
   "keywords": ["soundcloud"],
   "main" : "lib/soundcloud_client.js",
